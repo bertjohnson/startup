@@ -1,0 +1,2 @@
+# Set the default behavior of \n only, in case people don't have core.autocrlf set.
+* text eol=lf
